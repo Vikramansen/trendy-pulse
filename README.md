@@ -1,8 +1,11 @@
-# Trendy Pulse
+# Disclaimer: This was made end to end using an Agent - Testing the strenght of current models.
+
+
+
+## Trendy Pulse
 
 A fun, animated Next.js application that shows what's trending right now based on your location.
 
-![Trendy Pulse Screenshot](https://via.placeholder.com/800x450.png?text=Trendy+Pulse+App+Screenshot)
 
 ## Features
 
